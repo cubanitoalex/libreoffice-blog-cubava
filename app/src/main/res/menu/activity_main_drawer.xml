@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/home_32px"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_html"
+            android:icon="@drawable/user_filled_50px"
+            android:title="Sobre mi" />
+        <item
+            android:id="@+id/nav_php"
+            android:icon="@drawable/list_64px"
+            android:title="Tutoriales" />
+        <item
+            android:id="@+id/nav_phone"
+            android:icon="@drawable/easy_50px"
+            android:title="Trucos" />
+        <item
+            android:id="@+id/nav_health"
+            android:icon="@drawable/book_26px"
+            android:title="Manuales" />
+        <item
+            android:id="@+id/sobre_mi"
+            android:icon="@drawable/contacts_50px"
+            android:title="A cerca de" />
+
+   </group>
+
+    <item android:title="Redes Sociales">
+        <menu>
+            <item
+                android:id="@+id/nav_money"
+                android:icon="@drawable/facebook_circled_30px"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/twitter_circled_30px"
+                android:title="Twitter" />
+            <item
+                android:id="@+id/nav_telegram"
+                android:icon="@drawable/telegrama"
+                android:title="Telegram LibreOffice Hispano" />
+        </menu>
+    </item>
+
+</menu>

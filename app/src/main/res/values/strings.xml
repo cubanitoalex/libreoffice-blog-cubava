@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">LibreOffice Cuba</string>
+    <string name="title_activity_welcome">Pantalla de inicio</string>
+    <string name="next">Siguiente</string>
+    <string name="skip">Saltar</string>
+    <string name="start">LO TENGO</string>
+
+    <string name="title_facebook">Estamos en Facebook</string>
+    <string name="title_twitter">Siguenos en Twitter</string>
+    <string name="title_website">Visite nuestro website</string>
+
+    <string name="slide_1_title">¿Qué es LibreOffice?</string>
+    <string name="slide_1_desc">LibreOffice es una suite ofimática libre y gratuita, que funciona en muchos tipos de ordenadores y sistemas operativos, como por ejemplo Windows, Mac y Linux.</string>
+
+    <string name="slide_2_title">¿Qué herramientas tiene LibreOffice?</string>
+    <string name="slide_2_desc"> Dispone de un procesador de texto (Writer), un editor de hojas de cálculo (Calc), un creador de presentaciones (Impress), un gestor de bases de datos (Base), un editor de gráficos vectoriales (Draw), y un editor de fórmulas matemáticas (Math).</string>
+
+    <string name="slide_3_title">Writer</string>
+    <string name="slide_3_desc">LibreOffice Writer es el procesador de texto de la suite ofimática. Puede proteger documentos con contraseña, guardar versiones del mismo documento, insertar imágenes, objetos OLE, admite firmas digitales, símbolos, fórmulas, tablas de cálculo, gráficos, hiperenlaces, marcadores, formularios, etc. Permite exportar archivos de texto a los formatos PDF y PDF/A y HTML sin software adicional. Los documentos se guardan por defecto con la extensión .odt. </string>
+
+    <string name="slide_4_title">Calc</string>
+    <string name="slide_4_desc">LibreOffice Calc es una hoja de cálculo. Crea sus hojas en su propio formato (.ods), pero además, puede abrir y editar ficheros en formato Excel. Tiene una serie de características exclusivas, incluyendo un sistema que, automáticamente define series de gráficas, sobre la base de la disposición de la información del usuario. Calc también puede exportar hojas de cálculo al formato PDF.  </string>
+
+    <string name="slide_5_title">Impress</string>
+    <string name="slide_5_desc">LibreOffice Impress es un programa de presentación de transparencias o diapositivas. El formato nativo de las presentaciones es .odp, pero también tiene la capacidad de leer y escribir en el formato de archivos de Microsoft PowerPoint (ppt). Tiene capacidad de exportar las presentaciones a archivos PDF. Puede también exportar las presentaciones al formato SWF, permitiendo que se reproduzcan en cualquier computadora con un reproductor de Flash instalado.  </string>
+
+    <string name="slide_6_title">Draw</string>
+    <string name="slide_6_desc">LibreOffice Draw es un editor de gráficos vectoriales y herramienta de diagramación, similar a Microsoft Visio y comparable en características a las primeras versiones de CorelDRAW. Ofrece «conectores» entre las formas, disponibles en una gama de diferentes estilos de líneas y facilitan la construcción de gráficos, como por ejemplo diagramas de flujo. Tiene características similares a los programas de maquetación para publicación como Scribus y Microsoft Publisher. Draw también puede exportar sus creaciones al formato PDF y al estándar SVG, sus archivos nativos tienen extensión .odg. </string>
+
+    <string name="slide_7_title">Math</string>
+    <string name="slide_7_desc">LibreOffice Math es una aplicación para la creación y edición de fórmulas matemáticas, cuya extensión es .odf. La aplicación utiliza un lenguaje de marcado para representar las fórmulas. Dichas fórmulas pueden así ser incorporadas fácilmente dentro de otros ficheros de LibreOffice, tales como los documentos creados por Writer, incrustándolas al documento como objetos OLE. Math soporta múltiples fuentes y puede exportar fórmulas a los formatos de archivo ODF, PDF o MathML.  </string>
+
+    <string name="slide_8_title">Base</string>
+    <string name="slide_8_desc">LibreOffice Base es un programa de base de datos. Permite la creación y manejo de bases de datos, elaboración de formularios e informes que proporcionan a los usuarios finales un acceso fácil a los datos, sus archivos se guardan por defecto con la extensión .odb. Al igual que Microsoft Access, es capaz de trabajar como un front-end para diversos sistemas de bases de datos tales como el de Access (JET), fuente de datos ODBC y MySQL/PostgreSQL. Base forma parte de la suite ofimática desde la versión 2.0 de OpenOffice.  </string>
+
+    <string name="slide_9_title">LibreOffice Cuba</string>
+    <string name="slide_9_desc">Te invito a visitar el Blog para la Comunidad Cubana de LibreOffice</string>
+
+    <string name="Alexis"><![CDATA[ Contacto: Lic. Alexis Parra González \nGrupo de Desarrollo Hospital Lucia Iñiguez Landin \nMovil: +5352469458 \nEmail: alexishlg@infomed.sld.cu ]]></string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">about</string>
+    <string name="title_activity_acercade">A cerca de</string>
+    <string name="large_text">1</string>
+
+
+</resources>
