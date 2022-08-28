@@ -1,13 +1,15 @@
 # LibreOffice Cuba | Comunidad cubana de LibreOffice
-Comparto el codigo fuente Plantilla nativa de la aplicaci髇 Android WebView del Blog Comunidad cubana de LibreOffice.
-onvierta su aplicaci髇 web o sitio web compatible con dispositivos m髒iles en una aplicaci髇 nativa de Android WebView en 2 minutos!
+Comparto el codigo fuente Plantilla nativa de la aplicaci贸n Android WebView del Blog Comunidad cubana de LibreOffice.
+隆Convierta su aplicaci贸n web o sitio web compatible con dispositivos m贸viles en una aplicaci贸n nativa de Android WebView en 2 minutos!
 
 
-## Instalaci髇
+## Instalaci贸n
 Tener Android Studio + SDK + Gradle
 
 
 # Screenshots :
+![LibreOfficeCuba1](https://github.com/cubanitoalex/libreoffice-blog-cubava/blob/master/screenshots/LibreOfficeCuba1.jpg)
+
 
 <div align="center">
         <img width="45%" src="screenshots/LibreOfficeCuba1.jpg" alt="Intro" title="Intro"</img>
